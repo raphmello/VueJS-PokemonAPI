@@ -1,30 +1,30 @@
 # Pokedex
 
-## Sample Project
+## Project Goal
 ```
-Development of a Vue JS web page accessing an API for retrieving the information. 
-Implemented using v-for, props, methods, filters, data and created functions 
-to learn the Vue Framework.
+Development and Learning the Vue JS Framework.
+  Creation of a web page that access an API for retrieving the information. 
+    Implemented using v-for, props, methods, filters, data and created functions.
 ```
 ## CSS Framework
 ```
-Bulma
+  Bulma
 ```
 ## HTTP Request
 ```
-Axios
+  Axios
 ```
 ### Project setup
 ```
-npm install
+  npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+  npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+  npm run build
 ```
